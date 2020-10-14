@@ -1,7 +1,7 @@
 claim_fraud_prediction
 =============================
 
-This work-in-progress project is focused on building a model to predict whether an insurance claims is fraudulent.
+This *work-in-progress* project is focused on building a model to predict whether an insurance claims is fraudulent.
 
 
 project_summary
