@@ -1,6 +1,8 @@
 claim_fraud_prediction
 =============================
 
+![](fraud_classification.gif)
+
 This *work-in-progress* project is focused on building a model to predict whether an insurance claims is fraudulent.
 
 
